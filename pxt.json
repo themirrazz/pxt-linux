@@ -15,9 +15,7 @@
         "shims.d.ts",
         "enums.d.ts",
         "linux.ts",
-        "battery.ts",
-        "battery.cpp",
-        "powerlevel.cpp"
+        "battery.ts"
     ],
     "testFiles": [
         "test.ts"
