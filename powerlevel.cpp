@@ -1,6 +1,5 @@
-#include "MicroBit.h"
- 
-MicroBitDisplay display;
+#include "pxt.h"
+ using namespace pxt;
  
 /*
 * This is a simple program that let us use the ADC to read the input voltage.
