@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="B%b}Jgi`!*4)e:OB,gB2" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Lty094Lzd/tOG4)Zss/z">myImage</variable></variables><block type="pxt-on-start" id="yPJ!!DWiT-_@6|;]%1KM" x="0" y="0"><statement name="HANDLER"><block type="clipboard_copyLedImage" id="p2p|.@#U,UWCg$}f?BNa"><value name="img"><block type="device_build_big_image" id="k2MqvxxJ82LdNl|0Ig#_"><field name="LEDS">`
+        # . # . . . . # . . 
+        # . # . . . . # . . 
+        . # . . # . . # . . 
+        . # . # . # . . . . 
+        . # . . # . . # . .
+        `</field></block></value></block></statement></block><block type="device_button_event" id="S|!y4iMzx]3dO|:(%e-s" x="108" y="382"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_scroll_image" id="pNpUn9F.#(:D}qleOeza"><value name="sprite"><block type="clipboard_readClipboard" id="eB]$LH_Vg}`ho1$y7.2t"><value name="index"><shadow type="math_number" id="j5/|~QWR.E@uo:ZiI.yq"><field name="NUM">0</field></shadow></value></block></value><value name="frameoffset"><shadow type="math_number" id="HfUBg7KB$R@,c_R2|L{S"><field name="NUM">1</field></shadow></value><value name="delay"><shadow type="math_number" id="gJ$?HxdDhXI3vpl(@28{"><field name="NUM">200</field></shadow></value></block></statement></block></xml>
