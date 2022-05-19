@@ -1,11 +1,10 @@
-//% block="Linux" icon="\uf120" color=#a053b8
 namespace linux {
-    //% block="what the bruh?"
-    export function whatTheBruh() {
-        return bruh()
+    //% block="in simulator"
+    export function inMicroBitSimulator() {
+        return inSimulator()
     }
-    //% shim=linux::bruh
-    function bruh() {
-        return "fake-bruh"
+    //% shim=linux::inSimulator
+    function inSimulator() {
+        return true
     }
 }
