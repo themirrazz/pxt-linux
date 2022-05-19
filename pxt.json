@@ -13,8 +13,7 @@
         "main.ts",
         "main.cpp",
         "shims.d.ts",
-        "enums.d.ts",
-        "linux.ts"
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
