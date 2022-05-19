@@ -1,4 +1,3 @@
-//% block="Linux" icon="\uf120" color=#a053b8
 namespace linux {
     //% block="in simulator"
     export function inMicroBitSimulator(){
