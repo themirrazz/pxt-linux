@@ -14,7 +14,8 @@
         "main.cpp",
         "shims.d.ts",
         "enums.d.ts",
-        "linux.ts"
+        "linux.ts",
+        "battery.ts"
     ],
     "testFiles": [
         "test.ts"
