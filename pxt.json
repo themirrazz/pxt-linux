@@ -12,8 +12,8 @@
         "main.blocks",
         "main.ts",
         "main.cpp",
-        "shims.d.ts",
-        "enums.d.ts"
+        "enums.d.ts",
+        "shims.d.ts"
     ],
     "testFiles": [
         "test.ts"
