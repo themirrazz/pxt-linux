@@ -3,11 +3,12 @@
  
 MicroBitDisplay display;
 
-using namespace pxt
-//% 
+using namespace pxt;
+
+
 namespace linux {
     //%
-    string bruh() {
-        return "bruh"
+    bool inSimulator() {
+        return false;
     }
 }
