@@ -8,7 +8,7 @@ namespace linux {
     export function getBattVolts(){
         return battery()
     }
-    //% block="battery %"
+    //% block="battery level"
     export function getBattLevel(){
         return (getBattVolts()/3.11)*100
     }

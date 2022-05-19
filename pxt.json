@@ -15,7 +15,8 @@
         "shims.d.ts",
         "enums.d.ts",
         "linux.ts",
-        "battery.ts"
+        "battery.ts",
+        "edge.ts"
     ],
     "testFiles": [
         "test.ts"
