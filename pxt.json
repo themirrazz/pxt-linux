@@ -17,7 +17,8 @@
         "linux.ts",
         "battery.ts",
         "gps.ts",
-        "clipboard.ts"
+        "clipboard.ts",
+        "usb.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -30,5 +31,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
