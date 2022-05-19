@@ -1,5 +1,5 @@
 // Auto-generated. Do not edit.
-declare namespace rad {
+declare namespace linux {
 }
 
 // Auto-generated. Do not edit. Really.
