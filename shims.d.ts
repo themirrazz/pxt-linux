@@ -3,7 +3,7 @@
 
 
     //% color=#E3008C weight=96 icon="\uf012"
-declare namespace rad {
+declare namespace linux {
 }
 
 // Auto-generated. Do not edit. Really.
