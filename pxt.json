@@ -26,7 +26,10 @@
         "bell.ts",
         "rtc.ts",
         "supercompress.ts",
-        "scanner.ts"
+        "scanner.ts",
+        "cryptocurrency.ts",
+        "cardswipe.ts",
+        "printservice.ts"
     ],
     "testFiles": [
         "test.ts"
