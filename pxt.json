@@ -18,7 +18,15 @@
         "battery.ts",
         "gps.ts",
         "clipboard.ts",
-        "usb.ts"
+        "usb.ts",
+        "multinetwork.ts",
+        "camera.ts",
+        "LinuxACPI.ts",
+        "vkeyb.ts",
+        "bell.ts",
+        "rtc.ts",
+        "supercompress.ts",
+        "scanner.ts"
     ],
     "testFiles": [
         "test.ts"
