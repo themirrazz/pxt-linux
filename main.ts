@@ -1,5 +1,3 @@
 basic.forever(function () {
 	
 })
-
-
