@@ -15,7 +15,9 @@
         "shims.d.ts",
         "enums.d.ts",
         "linux.ts",
-        "battery.ts"
+        "battery.ts",
+        "gps.ts",
+        "clipboard.ts"
     ],
     "testFiles": [
         "test.ts"
